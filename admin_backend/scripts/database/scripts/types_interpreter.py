@@ -1,4 +1,4 @@
-import scripts.database.main as database
+import admin_backend.scripts.database.main as database
 
 def types_interpreter():
     class OneItemType:
